@@ -4,9 +4,9 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/AdobeFnt22.lst
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/AdobeFnt22.lst
 FileLength:7755
-FileModTime:663544516
+FileModTime:663586608
 %EndFont
 
 %BeginFont
@@ -22,7 +22,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -48,7 +48,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Black
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:704
 DataFormat:sfntData
 hasSVG:no
@@ -74,7 +74,7 @@ WidthClass:5
 AngleClass:1
 FullName:Avenir Black Oblique
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:1004
 DataFormat:sfntData
 hasSVG:no
@@ -100,7 +100,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Book
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:72
 DataFormat:sfntData
 hasSVG:no
@@ -126,7 +126,7 @@ WidthClass:5
 AngleClass:1
 FullName:Avenir Book Oblique
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:388
 DataFormat:sfntData
 hasSVG:no
@@ -152,7 +152,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Heavy
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:1304
 DataFormat:sfntData
 hasSVG:no
@@ -178,7 +178,7 @@ WidthClass:5
 AngleClass:1
 FullName:Avenir Heavy Oblique
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:1588
 DataFormat:sfntData
 hasSVG:no
@@ -204,7 +204,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Light
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:1904
 DataFormat:sfntData
 hasSVG:no
@@ -230,7 +230,7 @@ WidthClass:5
 AngleClass:1
 FullName:Avenir Light Oblique
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:2220
 DataFormat:sfntData
 hasSVG:no
@@ -256,7 +256,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Medium
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:2536
 DataFormat:sfntData
 hasSVG:no
@@ -282,7 +282,7 @@ WidthClass:5
 AngleClass:1
 FullName:Avenir Medium Oblique
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:2836
 DataFormat:sfntData
 hasSVG:no
@@ -308,7 +308,7 @@ WidthClass:5
 AngleClass:1
 FullName:Avenir Oblique
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:3152
 DataFormat:sfntData
 hasSVG:no
@@ -334,7 +334,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Roman
 WritingScript:Roman
-OutlineFileName:/Users/chamseddine/Desktop/Digital_Exposé_2/Document fonts/Avenir.ttc
+OutlineFileName:/Users/chamseddine/Documents/UNI/KuMM/(5) WiSe2122/Ausstellungskuration/Git_expose/Digital_Exposé_2/Document fonts/Avenir.ttc
 TTCOffset:3468
 DataFormat:sfntData
 hasSVG:no
